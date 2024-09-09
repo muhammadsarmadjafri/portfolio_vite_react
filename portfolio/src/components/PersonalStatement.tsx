@@ -1,4 +1,3 @@
-import React from 'react'
 import profilePhoto from '../assets/profilePhoto.png'
 import { Button } from '@/components/ui/button'
 import { DownloadIcon, MailIcon, FolderIcon } from 'lucide-react'

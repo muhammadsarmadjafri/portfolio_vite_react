@@ -1,4 +1,3 @@
-import React from 'react'
 import PersonalStatement from './components/PersonalStatement'
 
 function App() {
