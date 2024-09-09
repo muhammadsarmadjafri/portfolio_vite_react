@@ -9,7 +9,7 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: "/portfolio/",
+  base: "/portfolio_vite_react/",
   build: {
     outDir: 'docs',
   },
